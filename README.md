@@ -9,7 +9,7 @@ Code and data can be found at https://github.com/cliang44/CS_7641_Supervised_Lea
 ----------- Environment -----------
 
 
-The code should be run in Python 3 jupyter notebook. Some packages are also required like sklearn, numpy, pandas, graphviz, matpotlib...
+The code should be run in Python 3 jupyter notebook. Some packages are required like sklearn, numpy, pandas, graphvi and matpotlib to run the code. 
 
 
 ----------- Execution -----------
