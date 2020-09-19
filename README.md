@@ -1,10 +1,11 @@
 # CS_7641_Supervised_Learning
 
------------ Code -----------
-
+----------- Code & Data -----------
 
 Code and data can be found at https://github.com/cliang44/CS_7641_Supervised_Learning
 
+Classification1 : Code - problem1.jpynb, Data - thyroid_data.csv
+Classification2 : Code - problem2.jpynb, Data - Epileptic_Seizure_Recognition_data.csv
 
 ----------- Environment -----------
 
@@ -21,7 +22,7 @@ jupyter notebook problem1.ipynb
 jupyter notebook problem2.ipynb
 
 
------------ NOTE -----------
+----------- Note -----------
 
 
 The hyperparameter tuning part in the code has been marked as comment to save execution time. 
